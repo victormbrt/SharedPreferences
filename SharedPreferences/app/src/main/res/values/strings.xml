@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="btnguardar">Guardad</string>
+    <string name="btnrecuperar">Recuperar</string>
+</resources>
